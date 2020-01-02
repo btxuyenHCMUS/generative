@@ -22,10 +22,10 @@ random_seed: False
 padding: 'SAME'
 
 # training
-train_spe: 40
-max_iters: 1000
-viz_max_out: 10
-val_psteps: 20
+train_spe: 5
+max_iters: 10
+viz_max_out: 5
+val_psteps: 5
 
 # data
 data_flist:
